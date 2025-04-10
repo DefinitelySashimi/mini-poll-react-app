@@ -1,2 +1,2 @@
 # mini-poll-react-app
-lab activity
+lab activity  for creating a mini poll with vite + react
